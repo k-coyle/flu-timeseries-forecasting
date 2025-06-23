@@ -1,0 +1,24 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/*
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Env
+env/
+venv/
+
+# Logs & Models
+logs/
+*.log
+*.pkl
+*.h5
+
+# OS
+.DS_Store
